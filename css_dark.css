@@ -174,3 +174,5 @@ textarea, select, input{background: #000 !important}
 .sc-button-small.sc-button-follow:before {filter: invert(1);} /* Fix track view sidebar follow button icon to be white instead of black */
 .header{border-bottom: 1px solid #333;}
 .playControls__inner,.playControls__bg{border-top: 1px solid #333 !important;}
+/* PR 18 update */
+.banner{background-color: #555555 !important;} /* Fixes banner and makes it compatible with the text */
