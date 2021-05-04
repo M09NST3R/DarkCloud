@@ -161,6 +161,7 @@ textarea, select, input{background: #000 !important}
 .streamHTUpsell{background-color: #292929 !important;} /* In-stream banners */
 .emptyNetworkPage__image{filter: invert(80%) !important;} /* Fix empty profile page */
 .sc-font-body{font-weight: 500 !important;} /* Make body font slightly thicker for readability */
+kbd.sc-font{color: #000000} /* fix white on white font color on shortcut help page */
 .featuredProfiles__item h3{filter: invert(100%) !important;} /* Fix featured profiles text 1/2 */
 .featuredProfiles__list .sc-status-icon{filter: invert(100) !important;} /* Fix featured profiles text 2/2 */
 .sc-button-delete::before{filter: invert(100%) !important;} /* Fix delete playlist button */
